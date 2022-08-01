@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    border: 5px solid DodgerBlue;
+    border-radius: 15px;
+    padding: 10px;
+}
+header a {
+    border: 1px solid DarkBlue;
+    background-color: DarkBlue;
+    border-radius: 10px;
+    padding: 5px;
+    color: white;
+    text-decoration: none;
+}
+h1 {
+    border: 3px solid DarkMagenta;
+    color: yellow;
+    border-radius: 15px;
+    padding: 5px;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+footer {
+   background-color: Violet;
+   padding: 5px;
+   padding-left: 10px;
+   padding-right: 10px;
+}
+footer p {
+   background-color: white;
+   padding: 10px;
+}
+.slx {
+    border: 3px solid Blue;
+    border-radius: 7px;
+    text-decoration: none;
+    margin: 20px;
+}
+.slx2 {
+    border: 3px solid Blue;
+    border-radius: 10px;
+    text-decoration: none;
+    margin: 20px;
+    background-color: blue;
+    color: white
+}
